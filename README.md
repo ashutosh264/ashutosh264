@@ -1,7 +1,8 @@
-### Hi there 👋
+# Hello, I'm Ashutosh Shaha! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 <!--
-**ashutosh264/ashutosh264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh264&count_private=true&show_icons=true&theme=dark" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh264&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
