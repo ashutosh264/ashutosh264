@@ -35,5 +35,5 @@
 
 ### Find me elsewhere 🌎
 
-<a href="https://in.linkedin.com/in/ashutosh-shaha-953753197" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/linkedin.png" alt="ashutosh-shaha-953753197" height="50" width="50"/></a>
-<a href="https://www.instagram.com/ashutosh_264/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/48/000000/instagram-new.png" alt="ashutosh_264" height="50" width="50"/></a>
+<a href="https://in.linkedin.com/in/ashutosh-shaha-953753197" target="_blank"><img align="center" src="https://img.icons8.com/color/64/000000/linkedin.png" alt="ashutosh-shaha-953753197" height="50" width="50"/></a>
+<a href="https://www.instagram.com/ashutosh_264/" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/48/000000/instagram-new.png" alt="ashutosh_264" height="50" width="50"/></a>
