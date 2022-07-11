@@ -1,11 +1,11 @@
-<h1 align="center">Hello, I'm Ashutosh Shaha! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hello, I'm Ashutosh Shaha!</h1>
 
-<h3>I am a sophomore studying at the <b>PICT, Pune</b>.
+<h3>Studying at the <b>PICT, Pune</b>.
 </h3>
 
 ### What I'm focusing on 👨‍💻
 
-- Currently, I am enhancing my MERN & DevOps skills.
+- Currently, I am enhancing my DSA & DevOps skills.
 - Also, learning many new things along the way!
 
 ### Interests
@@ -35,5 +35,5 @@
 
 ### Find me elsewhere 🌎
 
-<a href="https://in.linkedin.com/in/ashutosh-shaha-953753197" target="_blank"><img align="center" src="https://img.icons8.com/color/64/000000/linkedin.png" alt="ashutosh-shaha-953753197" height="50" width="50"/></a>
+<a href="https://in.linkedin.com/in/ashutosh-shaha" target="_blank"><img align="center" src="https://img.icons8.com/color/64/000000/linkedin.png" alt="ashutosh-shaha-953753197" height="50" width="50"/></a>
 <a href="https://www.instagram.com/ashutosh_264/" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/48/000000/instagram-new.png" alt="ashutosh_264" height="50" width="50"/></a>
