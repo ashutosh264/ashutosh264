@@ -9,7 +9,6 @@
 
 ### Interests
 
-- I am a binge reader (listener 😉), also like to watch movies.
 - I love cycling & do a bit of video editing as well! 
 
 ### Languages and Tools:
