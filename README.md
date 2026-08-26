@@ -1,43 +1,43 @@
-<!-- Hii, welcome to my README. -->
-<h1 align="center">Hi 👋, I'm Ashutosh Shaha!</h1>
-<p align="center"> <img  src="https://komarev.com/ghpvc/?username=ashutosh264&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh264" /> </p>
+### Hi, I'm Ashutosh Shaha
 
-### What I'm focusing on 👨‍💻
+I work on data platform, AI tooling and pipelines at [DeepIntent](https://deepintent.com), a US healthcare DSP, from Pune, India. Most of my day is Apache Airflow on Kubernetes, Spark with Iceberg, ClickHouse and Druid, and the Java & Python services around them. Lately working on MCP servers, observability, benchmarking and router service for AI tools.
 
-- Currently, I am enhancing my DSA & DevOps skills.
-- Also, learning many new things along the way!
+### `$ whoami`
 
-### Interests
+- Senior Software Engineer at DeepIntent, there since 2023
+- Orchestration and storage: Airflow 3.x, Spark, Iceberg, ClickHouse, Druid
+- Backend: Java, Spring Boot, Python
+- Building internally: MCP servers and LangGraph agents for tooling
+- Learning in public this year: Go, and the basics of applied ML
 
-- I love cycling & do a bit of video editing as well! 
+### Upstream
 
-### Languages and Tools:
-<p>
+Small patches to [Apache Airflow](https://github.com/apache/airflow), sent when a problem I hit at work looked like everyone's problem. Both are in [Airflow 3.3.1](https://airflow.apache.org/docs/apache-airflow/stable/release_notes.html#airflow-3-3-1-2026-08-12) (12 Aug 2026).
 
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/64/000000/html-5.png" alt="html5" width="50" height="50"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/css3.png" alt="css3" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="50" height="50"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/4a90e2/bootstrap.png" alt="bootstrap" width="50" height="50"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="reactjs" width="50" height="50"/> </a>
-<a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/windows/32/000000/node-js.png" alt="nodejs" width="50" height="50"/> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
+- [Show Dag Run conf column by default in Dag Runs list](https://github.com/apache/airflow/pull/68904) - merged Jul 2026
+- [Add expand/collapse all for Dag Run conf JSON in Dag Runs list](https://github.com/apache/airflow/pull/69567) - merged Jul 2026
 
-<a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/null/docker.png" alt="docker" width="50" height="50"/> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a><a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux"/> </a>
+### Writing
 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/c-plus-plus-logo.png" alt="cplusplus" width="50" height="50"/> </a><a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="50" height="50"/> </a>
+- [The Case of the Phantom Health Check](https://medium.com/@ashutoshbshaha30/the-case-of-the-phantom-health-check-44892ac0726c) - Airflow health-check DAG that failed at the top of the hour. The first timeout knob was the wrong one.
+- [My Airflow Learnings](https://medium.com/@ashutoshbshaha30/my-airflow-learnings-e5839ea85615) - notes from running Airflow 3.x.
+- [A Beginner's Take on Spark Query and Storage Optimizations](https://towardsdev.com/a-beginners-take-on-spark-query-and-storage-optimizations-a8fb05dbff5a) - Towards Dev. Query and storage knobs that actually moved the needle.
+- [Gmail Auto-Reply with Node.js](https://medium.com/@ashutoshbshaha30/gmail-auto-reply-with-node-js-javascript-fec2e4e8da5f) - walkthrough. Code: [gmail-auto-reply](https://github.com/ashutosh264/gmail-auto-reply).
 
- </p>
+### Notes
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh264&count_private=true&show_icons=true&theme=dark" />
+- [spark-kyuubi-minio-minimal-local-setup](https://github.com/ashutosh264/spark-kyuubi-minio-minimal-local-setup) - the smallest local Spark + Kyuubi + MinIO stack I could get working.
+- [til](https://github.com/ashutosh264/til) - older short notes on nginx, sharding, Docker.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh264&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### Earlier things
 
-### Find me elsewhere 🌎
- 
-<p align="left">
-<a href="https://twitter.com/ashutosh_264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashutosh_264" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashutosh-shaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh-shaha" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ashutosh-shaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ashutosh-shaha" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ashutosh264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashutosh264" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashutoshshaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashutoshshaha" height="30" width="40" /></a>
-</p>
+- [PICS-O-REEL](https://pics-o-reel-2021.netlify.app/) - college art exhibition platform. Submissions, S3 storage, live voting. Around 2.5K visitors and 3K votes during the event.
+- [Pasckathon_Friends](https://github.com/ashutosh264/Pasckathon_Friends) - hackathon home automation with face-recognition entry and power monitoring, 2020.
 
+Most of my other public repos are from college. I am leaving them as they are and labelling them honestly rather than pretending they are maintained.
+
+### Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/ashutosh-shaha/) · [LeetCode](https://leetcode.com/ashutoshshaha) · [X](https://twitter.com/ashutosh_264) · [ashutoshbshaha30@gmail.com](mailto:ashutoshbshaha30@gmail.com)
+
+Off keyboard: trekking, cycling, and a bit of video editing.
